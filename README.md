@@ -6,10 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Fadhil Abidin</h1>
 <h3 align="center">A passionate data scientist from Indonesia</h3>
-
-<p align="right">
-  <img alt="Coding" width="400" src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/data-science-2-mP4XPq0y3wUKory9.gif">
-</p>
+<img align="right" alt="Coding" width="350" src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/data-science-2-mP4XPq0y3wUKory9.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=fadhiljr7&label=Profile%20views&color=0e75b6&style=flat" alt="fadhiljr7">
@@ -28,7 +25,7 @@
 
 - 📫 How to reach me **abidinfadhil@gmail.com**
 
-- ⚡ Fun fact **I'm a fun person who likes to learn new things**
+- ⚡ Fun fact **I'm a fun person who likes to learn new things.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
